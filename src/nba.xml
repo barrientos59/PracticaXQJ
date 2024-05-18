@@ -1,0 +1,46 @@
+<liga>
+    <equipos>
+        <equipo codigo="lakers">
+            <nombre>Lakers</nombre>
+            <ciudad>Los Angeles</ciudad>
+        </equipo>
+        <equipo codigo="celtics">
+            <nombre>Celtics</nombre>
+            <ciudad>Boston</ciudad>
+        </equipo>
+        <equipo codigo="warriors">
+            <nombre>Warriors</nombre>
+            <ciudad>Golden State</ciudad>
+        </equipo>
+        <equipo codigo="bulls">
+            <nombre>Bulls</nombre>
+            <ciudad>Chicago</ciudad>
+        </equipo>
+    </equipos>
+    <jugadores>
+        <jugador codigo="jordan" equipo="bulls">
+            <apellido>Jordan</apellido>
+            <posicion>Escolta</posicion>
+            <fechaNacimiento>1963-02-17</fechaNacimiento>
+            <salario>3000000</salario>
+        </jugador>
+        <jugador codigo="bryant" equipo="lakers">
+            <apellido>Bryant</apellido>
+            <posicion>Alero</posicion>
+            <fechaNacimiento>1978-08-23</fechaNacimiento>
+            <salario>2500000</salario>
+        </jugador>
+        <jugador codigo="curry" equipo="warriors">
+            <apellido>Curry</apellido>
+            <posicion>Base</posicion>
+            <fechaNacimiento>1988-03-14</fechaNacimiento>
+            <salario>3500000</salario>
+        </jugador>
+        <jugador codigo="bird" equipo="celtics">
+            <apellido>Bird</apellido>
+            <posicion>Alero</posicion>
+            <fechaNacimiento>1956-12-07</fechaNacimiento>
+            <salario>2800000</salario>
+        </jugador>
+    </jugadores>
+</liga>
